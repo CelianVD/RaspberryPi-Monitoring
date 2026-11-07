@@ -1,4 +1,6 @@
 # RaspberryPi-Monitoring
+> [!WARNING]
+> Ce projet est archivé car il n'a pas vocation a être modifié.
 
 Scripts Python pour surveiller votre Raspberry Pi et recevoir des notifications sur Discord :
 - démarrage / arrêt du Raspberry Pi
